@@ -1,0 +1,111 @@
+[
+    {
+        "identifier": 1003,
+        "first_name": "Tamim Iqbal",
+        "last_name": "Bellerin",
+        "team": "Bangladesh",
+        "salary": 80000,
+        "position": "Defender",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThaV3f6_oJngL3fExJ8qSnial0oHbmSPkLyQ&usqp=CAU"
+    },
+    {
+        "identifier": 1101,
+        "first_name": "Sakib Al Hasan",
+        "last_name": "Cech",
+        "team": "Bangladesh",
+        "salary": 80000,
+        "position": "Goalkeeper",
+        "image": "https://st3.cricketcountry.com/wp-post-thumbnail/VurfAh.jpg"
+    },
+    {
+        "identifier": 1402,
+        "first_name": "Rubel Hossain",
+        "last_name": "Giroud",
+        "team": "Bangladesh",
+        "position": "Striker",
+        "salary": 77000,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ483xzp90kVbKkuHFLo056Nn8vekX7Zff90Q&usqp=CAU"
+    },
+    {
+        "identifier": 1027,
+        "first_name": "Mahmudulla Riyad",
+        "last_name": "Iwobi",
+        "team": "Bangladesh",
+        "position": "Midfielder 2",
+        "salary": 66000,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQexwo2wZSB14ChjzVZte-Y4osAm6kYXAEHMg&usqp=CAU"
+    },
+    {
+        "identifier": 1009,
+        "first_name": "Mashrafi Murtuza",
+        "last_name": "Koscielny",
+        "team": "Bangladesh",
+        "position": "Defender",
+        "salary": 55000,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROkRDcauQiwrJdRyDZLj8_C6ISk6Kd395HuQ&usqp=CAU"
+    },
+    {
+        "identifier": 1033,
+        "first_name": "Mustafizur Rahman",
+        "last_name": "Ozil",
+        "team": "Bangladesh",
+        "position": "Midfielder 1",
+        "salary": 90000,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoqqAPC8wBeo2IgB5urtivP6T2Bbz3BJM33w&usqp=CAU"
+    },
+    {
+        "identifier": 1048,
+        "first_name": "Sabbir Rahman",
+        "last_name": "Sanchez",
+        "team": "Bangladesh",
+        "position": "Striker",
+        "salary": 30000,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRsKJx3FUZhjEgd468U-0y8F_Ryx0LwLFpbg&usqp=CAU"
+    },
+    {
+        "identifier": 1041,
+        "first_name": "Musfikur Rahim",
+        "last_name": "Walcott",
+        "team": "Bangladesh",
+        "position": "Midfielder 2",
+        "salary": 50000,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEWLqIkk6Dt96v_IbBQ4OY9_OZ3hmEd0NiGQ&usqp=CAU"
+    },
+    {
+        "identifier": 1404,
+        "first_name": "Taskin Ahmmed",
+        "last_name": "Alonso",
+        "team": "Bangladesh",
+        "position": "Defender",
+        "salary": 60000,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKN1Yw7tFyQxHg14Mggp1UarqHfrsvkC_MCw&usqp=CAU"
+    },
+    {
+        "identifier": 1201,
+        "first_name": "Anamul Haq Bijoy",
+        "last_name": "Azpilicueta",
+        "team": "Bangladesh",
+        "position": "Defender",
+        "salary": 20000,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStsO5zOhuVwsnctJu6zlnncxQ3f4HC_uMDcA&usqp=CAU"
+    },
+    {
+        "identifier": 1304,
+        "first_name": "Liton Kumar Das",
+        "last_name": "Cahill",
+        "team": "Bangladesh",
+        "salary": 50000,
+        "position": "Defender",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3POtKEQy4smkHk4L2aHFMzF38f8hVjrjEbw&usqp=CAU"
+    },
+    {
+        "identifier": 1304,
+        "first_name": "Mohammad Saifuddin",
+        "last_name": "Cahill",
+        "team": "Bangladesh",
+        "salary": 56000,
+        "position": "Defender",
+        "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170907/mohammad-saifuddin.jpg"
+    }
+    
+]
